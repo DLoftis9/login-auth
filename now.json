@@ -1,0 +1,10 @@
+{
+  "version": 2, // Tells Now which API version to use
+  "name": "social service",
+  "builds": [
+    {
+      "src": "*.js",
+      "use": "@now/node-server" // It's an application!
+    }
+  ]
+}

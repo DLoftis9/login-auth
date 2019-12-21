@@ -1,0 +1,12 @@
+#sign up activation
+
+- let users use their actual name as a username
+ 
+- create functionality for users to upload content(images, videos, etc) to a folder for their account
+
+- check how to login with google
+https://developers.google.com/identity/protocols/OAuth2
+
+
+features:
+- create space for drawing up schema
